@@ -4,7 +4,7 @@
 
 **Implementation Framework** 
 
-The application has been developed with Flutter, which is based on the Dart programming language. Flutter can natively compile on Android and iOS from the same code base, which allows us to launch the application to more users easily. 
+The application uses the Flutter framework, which is based on the Dart programming language. Flutter can natively compile on Android and iOS from the same code base, which allows us to launch the application to more users easily. 
 We use the Model View ViewModel (MVVM) architecture to ensure structured management and interactions between the UI and the application logic. We use the Riverpod package, which simplifies the application of the Observer pattern, reducing necessary UI refreshes.
 
 **Firebase communication** 
