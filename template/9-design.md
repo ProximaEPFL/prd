@@ -25,7 +25,7 @@ In order to retrieve the user's surrounding posts and display the map with the c
 
 **Profile page**: The profile screen displays all the information associated to the user, such as their username, display name, number of centauri points, badges, number of followers along with their number of followed users. Moreover, it displays the title and description of all of their posts along with all of their comments. The user is able to delete any post or comment that they have created, from anywhere, directly from the profile page.
 
-**Post creation page**: Screen allowing the user to write a new post by setting its title and description. Before posting, the user is able to choose a group of nearby users with whom they want to post. They can also decide whether to send a notification to their followers.
+**Post creation page**: Screen allowing the user to write a new post by setting its title and description. Before posting, the user is able to choose from nearby users with whom they want to post. They can also decide whether to send a notification to their followers.
 
 **Post page**: Page displaying all the information associated to a particular post. This screen is displaying the title, complete description, owner, date, distance, upvote score, and all the comments associated with the post. The user is able to sort the comments by top or latest at their convenience, and they can follow up on any comment, creating a thread of comments to discuss and interact about the original post.
 
