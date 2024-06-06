@@ -25,7 +25,7 @@ Initial Setup and First Design Iteration
 Post features development
 
 - Develop the core post system that the users will mainly interact with.
-- Ensure that each new feature is thouroghly tested.
+- Ensure that each new feature is thoroughly tested.
 
 | **Sprint/Week Number** | **Objective** | **Outcomes** |
 | --- | --- | --- |
