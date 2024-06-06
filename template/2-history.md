@@ -1,6 +1,6 @@
 # History
 
-The proof of concept (PoC) built at the end of sprint 10 already contains many of the most important features: user authentication, posts (addition and deletion), comments (addition and deletion), votes, feed, profile picture, challenges, ranking and map.
+The proof of concept (PoC) built at the end of sprint 10 already contains many of the most important features: user authentication, posts (addition and deletion), comments (addition and deletion), votes, feed, profile cosmetics, challenges, ranking and map.
 
 Doing so, we learnt multiple important things concerning the technologies we used:
 
