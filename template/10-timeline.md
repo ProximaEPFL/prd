@@ -60,7 +60,7 @@ Final testing and deployment
 | **Sprint/Week Number** | **Objective** | **Outcomes** |
 | --- | --- | --- |
 | Week 11 | Quality check | Stable version off the app. Tested and validated user stories |
-| Week 12 | Feedback from testers | Pain points, possibilities of ameliorationa and bug identification. |
+| Week 12 | Feedback from testers | Pain points, possibilities of amelioration and bug identification. |
 | Week 13 | Feedback addressing | Bug fixing, amelioration of the app. Preparation for release on app stores. |
 | Week 14 | First public release | Working app ready for marketing and further updates. |
 
