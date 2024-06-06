@@ -2,7 +2,7 @@
 
 ## Execution Roadmap
 
-Planning an efficient schedule will prevent us from making time-wasting mistakes and reduce costs. The timeline is organized over a 14 week period, marked with 4 milestones. Main guidelines will ensure that the whole development process complies with the MVP requirements. A team of 6 people will be in charge of delivering a product ready for initial rollout: 2 backend developers, 2 frontend developers, 1 UI/UX designer and 1 project manager. The major points dealt with during this development process are setup, development, testing and rollout.
+Planning an efficient schedule will prevent us from making time-wasting mistakes and reduce costs. The timeline is organized over a 14 week period, marked with 4 milestones. Main guidelines will ensure that the whole development process complies with the MVP requirements. A team of 6 people will be in charge of delivering a product ready for initial rollout: 1 full stack developer, 1 backend developer, 2 frontend developers, 1 UI/UX designer and 1 project manager. The major points dealt with during this development process are setup, development, testing and rollout.
 
 #### Milestone 1
 
@@ -67,13 +67,14 @@ Final testing and deployment
 
 ## Development Resources
 
-Human resources represent the main cost of the project. The 2 backend developers will be in charge of managing 
-the database and the API of the backend. The 2 frontend developers will be in charge of the client part of the app. The UI/UX designer will be in charge of the overall design of the app. The project manager will be in charge of the coordination of the team and the communication with the users.
+Human resources represent the main cost of the project. The backend developer will be in charge of managing 
+the database and the API of the backend. The 2 frontend developers will be in charge of the client part of the app. The UI/UX designer will be in charge of the overall design of the app. The full stack developper will ensure the integration of all the features goes smoothly. The project manager will be in charge of the coordination of the team and the communication with the users.
 
 | **Function** | **Required person-months** |
 | --- | --- |
+| Full Stack Developper | 4 |
 | Frontend Flutter Developers | 8 |
-| Backend Developers | 8 |
+| Backend Developers | 4 |
 | UI/UX Designer | 4 |
 | Project Manager | 4 |
 
