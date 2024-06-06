@@ -26,8 +26,8 @@ Success will be determined by:
 
 To effectively analyze these metrics, the following strategies will be implemented:
 
-- **Data Collection** - Utilize Firebase Analytics to track user interactions within the app. This includes taps, posts read, comments made, and locations visited.
-- **Segmentation** - Analyze data based on user demographics (age, location, device type) to identify trends and tailor improvements.
+- **Data Collection** - Utilize Google Analytics to track user interactions within the app. This includes taps, posts read, comments made, and post locations visited.
+- **Segmentation** - Analyze data based on user demographics (age, post locations, device type) to identify trends and tailor improvements.
 - **Performance Benchmarks** - Set specific targets for each metric and compare actual performance against these benchmarks. Include these repetitive performance benchmarks into our regular development pipeline to effectively pinpoint changes that could negatively affect performances.
 
 **Note**: we also need to make sure that our application stays compliant with data protection rules that apply, like GDPR.
