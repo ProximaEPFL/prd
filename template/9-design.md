@@ -105,7 +105,7 @@ The document id of the challenge corresponds to the document id of the post that
 
 **Past challenges :** This collection manages the past challenges proposed to the user (whether completed or missed). It is a sub-collection under each user, and each past challenge has the same structure as an active challenge, with the fields:
 
-Expiring time (Timestamp), Must this challenge be completed in a group (bool), Has the challenge been completed (bool), Challenge completion points (int).
+Expiring time (Timestamp), Has the challenge been completed (bool), Challenge completion points (int).
 
 The presence of this collection is justified to ensure that the user is not presented with the same challenge more than once.
 
