@@ -39,7 +39,7 @@
 - **Ranking System**: Encourages competition and engagement by displaying user rankings based on Centauri points.
 - **Map**: Allows users to navigate to post locations and to visualize nearby activities.
 - **User's posts and comments management**: Allows users to track and manage their activity / virtual exposure on the application.
-- **Media Support** (Photos, GIFs, Videos): Enhances post content and user engagement.
+- **Media Support** (Photos, GIFs, Videos): Enhances post content and profile customization, increasing user engagement.
 - **Groups**: Facilitates community building and group exploration.
 - **Offline Mode**: Ensures usability even without internet access, improving user retention.
 
@@ -63,16 +63,11 @@
 
 For the MVP, the focus is on core functionalities that drive user engagement and retention. Additional features will be added in subsequent updates to enhance the user experience and expand the app's capabilities.
 
-
-1. **Profile Picture Customization**
-   - **Reason for Deferment:** Customization features like profile picture uploads were postponed to streamline the MVP development process. Incorporating such features would require additional development resources to support image uploading, resizing, and storage, which could extend the timeline and complicate the initial app release. Similary to media support, this feature would also introduce moderation challenges.
-   - **Future Integration:** Planned for a subsequent update to enhance user personalization and identity within the app. This delay ensures that our development team can focus on delivering a solid, stable, and user-friendly initial release, setting a strong foundation for future enhancements.
-
-2. **Heat Map of Trending Areas**
+1. **Heat Map of Trending Areas**
    - **Reason for Deferment:** Requires a substantial user base to generate meaningful data. Premature introduction could lead to misleading or sparse data displays.
    - **Future Integration:** Aimed for integration once active user thresholds exceed 50,000, providing users with a visual representation of hotspots to explore, thereby driving engagement and exploration.
 
-3. **Comments Tree Structure**
+2. **Comments Tree Structure**
    - **Reason for Deferment:** Reduces complexity in initial development. A linear comment structure simplifies interactions during the early stages of the platform.
    - **Future Integration:** Nested comments will be introduced in a later phase to improve conversation tracking and readability, enhancing discussions and engagement on posts.
 
