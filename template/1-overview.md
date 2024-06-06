@@ -14,4 +14,4 @@ Proxima is free for all users, with the primary target audience being social med
 
 The goal of the MVP (Minimum Viable Product) is to establish a solid user base, gauging success through metrics like downloads, active users, and user engagement levels. By achieving significant penetration, we aim to attract interest from potential partners and investors for future development.
 
-Proxima is currently available on Android and is planned to be released on IOS.
+Proxima is planned to release on Android and IOS.
