@@ -19,17 +19,17 @@
 ## User Stories and Key Features
 
 #### User Stories for Frequent Social Media Users:
-1. "As a social media enthusiast, I want to discover and share new experiences through posts around me to enhance my social outings."
-2. "As a social media enthusiast, I want to comment on and vote on posts to engage with my community and influence which content is most visible."
-3. "As a frequent user, I want to be rewarded for my interactions and exploration."
+1. "As a social media enthusiast, I want to discover and share new experiences through posts around me, so that I can enhance my social outings."
+2. "As a social media enthusiast, I want to comment on and vote on posts, so that I can engage with my community and influence which content is most visible."
+3. "As a frequent user, I want to be rewarded for my interactions and exploration, so that I can feel my progress."
 
 #### User Stories for Travelers:
-1. "As a traveler, I want to find unique local experiences by viewing posts from different cities."
+1. "As a traveler, I want to view posts in different cities I visit, so that I can find unique local experiences."
 2. "As a traveler, I want to use a map to navigate to posts and challenges, so I can find my way easily in new locations."
 
 #### User Stories for Local Explorers:
-1. "As a local explorer, I want to discover and find hidden gems in my city by exploring posts from other residents."
-2. "As a local resident, I want to create local posts so that people are challenged to explore lesser-known areas of my city."
+1. "As a local explorer, I want to explore posts from other residents, so that I can find hidden gems in my city."
+2. "As a local resident, I want to create local posts, so that people are challenged to explore lesser-known areas of my city."
 
 #### Key Features:
 - **User Authentication**: Necessary for security and personalized user experiences.
