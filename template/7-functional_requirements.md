@@ -39,7 +39,7 @@ Users gain Centauri points by completing challenges. These provide cosmetic impr
 Users should be able to see all the nearby posts, all of their own posts and all their challenges on a map. It should be simple to navigate back and forth from the map to the other pages. It should also be possible to seamlessly open the Google maps app to navigate to any post. This allows the user to precisely see where each post is, and also to know where to go to complete challenges. 
 
 ### Groups
-Users that are in the same place should be able create and join temporary groups to use the app toghether. This will allow them to create posts and complete challenges as a group.
+Users that are in the same place should be able create and join temporary groups to use the app together. This will allow them to create posts and complete challenges as a group.
 
 ## Internal Architecture
 The different screen viewmodels will communicate with different repositories to optain the data they need. These repositories talk with the database and obtain the live data. This can be seen in the app architecture diagram, in figure \ref{app_diagram} in the appendix.
