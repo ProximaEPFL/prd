@@ -4,7 +4,7 @@
 
 ### Security
 
-User authentication is managed by the third-party Google Authentication system. Consequently, credential data does not pass through our backend, ensuring that none of this highly sensitive information (such as passwords and tokens) is retained or exposed to any risk on our side. This approach leverages Google's robust security infrastructure, providing a secure and reliable authentication process for our users.
+User authentication is managed by thrusted third-party authentication systems. Consequently, credential data does not pass through our backend, ensuring that none of this highly sensitive information (such as passwords and tokens) is retained or exposed to any risk on our side. This approach leverages Google's or Apple's robust security infrastructures, providing a secure and reliable authentication process for our users.
 
 ### Data Retention Policy
 
