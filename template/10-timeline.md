@@ -74,7 +74,7 @@ the database and the API of the backend. The 2 frontend developers will be in ch
 | --- | --- |
 | Full Stack Developper | 4 |
 | Frontend Flutter Developers | 8 |
-| Backend Developers | 4 |
+| Backend Developer | 4 |
 | UI/UX Designer | 4 |
 | Project Manager | 4 |
 
