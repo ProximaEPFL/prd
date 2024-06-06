@@ -17,7 +17,7 @@ This infrastructure will enable us to pinpoint areas for enhancement and address
 
 Success will be determined by:
 
-- Effective **user retention** over time. We are aiming for above 60% returning users.
+- Effective **user retention** over time. We are aiming to lose less than 10% of our previous active users each month.
 - High levels of **user engagement** as indicated by posts, comments, and Centauri points (see Key Metrics above).
 - Positive **user feedback** and high satisfaction scores. We are aiming to achieve a user rating above 4 stars on mobile application stores after the first two months (Google Play Store and Apple Store).
 - Great overall **posts location coverage**. We want to see a dense concentration of posts with no dark zones (100 meters circle without posts) in large cities within 3 months after the launch of the app in each city.
