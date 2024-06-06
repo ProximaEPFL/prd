@@ -57,7 +57,7 @@
 - **User Adoption:** Targeting 3,000 downloads within the first month.
 - **Engagement Metrics:** Aim for an average of 1 post per user per day and 3 interactions (votes/comments) per post.
 - **User Feedback:** Achieve a minimum 4-star rating on app stores.
-- **Partnerships and Investor Interest:** Secure at least one partnership or investor meeting within the first three months.
+- **Partnerships and Investor Interest:** Secure at least five advertisement partnerships with local businesses, as well as meetings with investors within the first three months.
 
 ## Features Outside the Scope
 
