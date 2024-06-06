@@ -70,7 +70,7 @@ We now provide the organization of the main data components managed by Proxima.
 
 **Users :** This collection manages user profile data. The users are stored in a root collection, and for each user, we keep track of the following data:
 
-Centauri points (int), Display name (String), Username (String), Join time (Timestamp).
+Centauri points (int), Display name (String), Username (String), Join time (Timestamp), Profile Picture URL (String).
 
 The distinction between the display name and the username is important. The display name is shown throughout the app and can be the same for multiple users, while the username is unique and used for identifying individual users.
 
