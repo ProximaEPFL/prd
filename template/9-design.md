@@ -97,9 +97,9 @@ The user vote type—true for upvote, false for downvote—(bool).
 
 The document id corresponds to the id of the user who cast the vote. This setup allows retrieval of the user's vote state and prevents multiple votes from the same user. The exact same collection structure is also present for comments.
 
-**Challenges :** This collection manages the active challenges for the user. It is a sub-collection under each user, and each challenge is composed of: 
+**Challenges :** This collection manages the active challenges for a user or a group. It is a sub-collection under each user and group, and each challenge is composed of: 
 
-Expiring time (Timestamp), Must this challenge be completed in a group (bool), Has the challenge been completed (bool), Challenge completion points (int).
+Expiring time (Timestamp), Has the challenge been completed (bool), Challenge completion points (int).
 
 The document id of the challenge corresponds to the document id of the post that must be visited to complete the challenge.
 
