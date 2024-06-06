@@ -9,7 +9,7 @@ Planning an efficient schedule will prevent us from making time-wasting mistakes
 Initial Setup and First Design Iteration
 
 - Setup of the backend (Google Firebase)
-- Documentation of backend API
+- Write description of the backend API
 - Basic frontend building blocks
 - First interation of UI/UX design (Figma) 
 - Google login integration
@@ -17,7 +17,7 @@ Initial Setup and First Design Iteration
 
 | **Sprint/Week Number** | **Objective** | **Outcomes** |
 | --- | --- | --- |
-| Week 1 | Preparation of the codebase| Documentation of the backend API. Global view of the project's visual/technical directions. |
+| Week 1 | Preparation of the codebase| Write description of the backend API. Global view of the project's visual/technical directions. |
 | Week 2 | First UI/UX Design and Technical Setup | First UI/UX designs, Google Authentification and Firebase setup, basic frontend building blocks |
 
 #### Milestone 2
